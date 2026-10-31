@@ -1,0 +1,6 @@
+{
+  "name": "Maternal & Fetal IoMT Health Monitor",
+  "description": "Real-time IoMT maternal and fetal telemetry monitor with ESP32 integration, AD8232 ECG live waveform, fetal Doppler CTG tracking, DS18B20 temperature, alerts, and exportable medical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
